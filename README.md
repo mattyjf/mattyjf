@@ -1,5 +1,7 @@
-## About Me
-- I am a data scientist currently living in Utrecht, NL 🇳🇱
+### Hi there 👋
+I am a data scientist currently residing in Utrecht 🇳🇱
+I aim to produce explainable data solutions
+I am committed to continuing to expand my understanding of data science techniques and applications
 
 <!--
 **mattyjf/mattyjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
