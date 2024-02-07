@@ -1,4 +1,5 @@
-### Hi there 👋
+## About Me
+- I am a data scientist currently living in Utrecht, NL 🇳🇱
 
 <!--
 **mattyjf/mattyjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
